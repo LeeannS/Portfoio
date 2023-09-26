@@ -1,0 +1,28 @@
+h2 {
+    color:rgb(84, 98, 60);
+}
+
+h1 {
+    color:rgb(137, 115, 81)
+}
+
+body {
+    background-color: rgb(205, 201, 201);
+}
+
+section, footer {
+    margin: auto;
+    width: 700px;
+    background-color: rgb(205, 201, 201);
+}
+
+.profile {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.profile {
+    width: 150px;
+    border-radius: 100px;
+    border: solid purple 10px;
+}
